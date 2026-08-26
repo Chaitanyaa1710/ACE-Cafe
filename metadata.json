@@ -1,0 +1,6 @@
+{
+  "name": "The ACE Cafe",
+  "description": "Premium modern café website for The ACE Cafe in New Panvel, featuring cinematic visual design, signature menu showcase, interactive gallery, real Google reviews, and location details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
